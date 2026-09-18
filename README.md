@@ -25,8 +25,6 @@
 <br/>
 
 ## 🚀 About Me
-
-- 🔭 Currently building **[AI-Powered Interview Platform](https://github.com/Shubham-806/interviewprep-platform)** — resume analysis, domain quizzes, and AI mock video interviews, all in one place
 - 🌱 Learning and leveling up in **AI/ML integration, system design, and cloud deployment**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and building full-stack products end‑to‑end**
 - ⚡ Fun fact: I'd rather debug at 2 AM than leave a bug unsolved
@@ -62,9 +60,6 @@
 
 </div>
 
-**🎯 AI-Powered Interview Platform** — an all-in-one tool to prep smarter: analyze resumes for ATS fit, test knowledge with domain-specific quizzes, and practice AI-simulated mock video interviews.
-🔗 [Live Demo](https://interviewprep-platform.vercel.app) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/Shubham-806/interviewprep-platform)
-
 <br/>
 
 ## 📊 GitHub Stats
@@ -82,15 +77,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake (live progress loop)
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shubham-806/Shubham-806/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-> This snake "eats" your contribution graph and loops automatically. It needs a one-time GitHub Action setup — see **Setup Notes** below; until that runs once, this image will show broken.
 
 <br/>
 
