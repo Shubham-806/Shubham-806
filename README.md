@@ -1,3 +1,12 @@
+## 🐍 Contribution Snake (live progress loop)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shubham-806/Shubham-806/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+> This snake "eats" your contribution graph and loops automatically. It needs a one-time GitHub Action setup — see **Setup Notes** below; until that runs once, this image will show broken.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Shubham%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%"/>
