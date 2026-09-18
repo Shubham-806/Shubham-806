@@ -1,4 +1,3 @@
-## 🐍 Contribution Snake (live progress loop)
 
 <div align="center">
 
